@@ -1,4 +1,4 @@
-Meu Primeiro Projeto de Front-End:
+
 Bem-vindo ao meu primeiro projeto de front-end! Este projeto foi desenvolvido com HTML, CSS, Java e JavaScript com o objetivo de praticar e demonstrar minhas habilidades em desenvolvimento web.
 
 Sobre o Projeto:
