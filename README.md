@@ -12,5 +12,3 @@ Java: Utilizado no back-end para gerenciar a lógica da aplicação e a comunica
 
 Contribuições
 Contribuições são bem-vindas! Se você tiver sugestões ou melhorias, sinta-se à vontade.
-
-Por fim aqui esta o link do meu projeto : file:///C:/Users/THAUANE/Documents/X-men/index.html
